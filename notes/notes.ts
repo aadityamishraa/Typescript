@@ -1,0 +1,14 @@
+/* Types in Javascript
+    number
+    string
+    boolean
+    null
+    undefined
+    object
+
+ Types in Typescript
+    any
+    unknown
+    never
+    enum 
+    tuple   */
