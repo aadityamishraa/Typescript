@@ -4,7 +4,6 @@
     export class Circle{}
     export class Square{}
 
-
     // app.ts
     import {Circle, Square} from './shapes.ts';
 
